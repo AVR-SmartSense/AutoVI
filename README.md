@@ -5,7 +5,7 @@ This repository provides instructions for the installation of AutoVI software an
 hyperspectral vegetation index derivation using a hyperparameter optimization framework for high-throughput plant phenotyping'.
 
 ## AutoVI Installation
-1. [Download AutoVI windows installer](https://www.dropbox.com/s/kom1polv1wvsymw/AutoVI_Setup.exe?dl=0).Run AutoVI_Setup to install AutoVI software. 
+1. [Download the AutoVI windows installer](https://www.dropbox.com/s/kom1polv1wvsymw/AutoVI_Setup.exe?dl=0). Run AutoVI_Setup to install AutoVI software. 
 2. Please refer to the User_guide.pdf for further instructions. 
 
 ![Alt text](Main_screen.JPG)
