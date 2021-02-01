@@ -1,11 +1,11 @@
 ![Alt text](Splash.jpg)
 
 # AutoVI Software and Datasets
-This repository hosts the windows installer for the AutoVI software and datasets reported in the manuscript 'Automated 
+This repository provides instructions for the installation of AutoVI software and datasets reported in the manuscript 'Automated 
 hyperspectral vegetation index derivation using a hyperparameter optimization framework for high-throughput plant phenotyping'.
 
 ## AutoVI Installation
-1. Clone or download this repository. Run AutoVI_Setup to install AutoVI. 
+1. [Download AutoVI windows installer](https://www.dropbox.com/s/kom1polv1wvsymw/AutoVI_Setup.exe?dl=0).Run AutoVI_Setup to install AutoVI software. 
 2. Please refer to the User_guide.pdf for further instructions. 
 
 ![Alt text](Main_screen.JPG)
