@@ -10,11 +10,11 @@ hyperspectral vegetation index derivation using a hyperparameter optimization fr
 
 ![Alt text](Main_screen.JPG)
 
-## Datasets
-All relevant datasets used in the manuscript can be found in the /dataset folder:
-* Hyperspectral reflectance - Hyperspec_data.csv
-* Total chlorophyll content - Target_Chl.csv
-* Total sugar content - Target_Sugar.csv
+## Source Codes & Datasets
+All relevant source codes & datasets used in the manuscript can be found under these folders: 
+* Chlorophyll - source codes and datasets for chlorophyll content estimation
+* Sugar - source codes and datasets for sugar content estimation
+* AutoVI - user manual and TPE implementation for AutoVI software
 
 ## System Requirements
 * Windows 10 64-bit operating system 
