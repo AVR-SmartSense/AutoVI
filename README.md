@@ -1,4 +1,4 @@
-![Alt text](Splash.jpg)
+![Alt text](Splash.JPG)
 
 # AutoVI Software and Datasets
 This repository provides instructions for the installation of the AutoVI software and datasets reported in the manuscript 'Automated 
