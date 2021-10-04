@@ -1,6 +1,6 @@
 ![Alt text](Splash.JPG)
 
-# AutoVI Software and Datasets
+# AutoVI Repository
 This repository provides instructions for the installation of the AutoVI software and datasets reported in the manuscript 'Automated 
 hyperspectral vegetation index derivation using a hyperparameter optimization framework for high-throughput plant phenotyping'.
 
