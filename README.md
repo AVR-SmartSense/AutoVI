@@ -6,7 +6,7 @@ hyperspectral vegetation index derivation using a hyperparameter optimization fr
 
 ## AutoVI Installation
 1. [Download the AutoVI windows installer](https://www.dropbox.com/s/kom1polv1wvsymw/AutoVI_Setup.exe?dl=0). Run AutoVI_Setup to install AutoVI software. 
-2. Please refer to the AutoVI User Manual.pdf under AutoVI folder for further instructions. 
+2. Please refer to the User Manual.pdf under AutoVI folder for further instructions. 
 
 ![Alt text](Main_screen.JPG)
 
