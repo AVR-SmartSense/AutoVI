@@ -60,7 +60,7 @@ def objective(trial):
         cf_val.append(epsilon)
 
     # Evaluate model - STEP4
-    score = model.evaluate(x, y, selected_bands, cf_val)  # calculate R2 based on selected hyperparameters
+    score = model.evaluate(x, y, selected_bands, cf_val)  # calculate R2 based on selected model parameters
     return score
 
 
