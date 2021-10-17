@@ -1,4 +1,4 @@
-![Alt text](Splash.JPG)
+![Alt text](Splash.jpg)
 
 # AutoVI Repository
 This repository provides instructions for the installation of the AutoVI software, source codes and datasets reported in the manuscript 'Automated 
